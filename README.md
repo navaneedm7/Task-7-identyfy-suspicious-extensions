@@ -1,1 +1,1 @@
-# Task-7-identyfy-suspicious-extensions
+This report explains the process of identifying and removing suspicious browser extensions. The extensions were reviewed based on their permissions, publisher details, and overall behavior. Any extension that appeared unnecessary or potentially harmful was removed to improve browser security and performance. The report also highlights the risks of malicious browser extensions and the importance of regularly auditing installed add-ons to maintain a secure browsing environment.
